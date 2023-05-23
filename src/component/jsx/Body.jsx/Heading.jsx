@@ -9,11 +9,14 @@ const Heading = () => {
           <a href="#">
             <img src={name} alt="" />
           </a>
+          <h2>Neat & Tidy</h2>
+          <a href="#">Home</a>
           <a href="#">About</a>
           <a href="#">Services</a>
           <a href="#" target="_blank" rel="noopener noreferrer">
             Contact
           </a>
+          <button>LOGIN/SIGNUP</button>
         </nav>
       </div>
     </div>

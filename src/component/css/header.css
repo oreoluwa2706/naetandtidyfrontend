@@ -21,6 +21,14 @@ img .img1 {
   position: absolute;
   z-index: -1;
 }
+button {
+  background-color: red;
+  color: whitesmoke;
+  border-radius: 5px;
+  height: fit-content;
+  padding: 5px 5px;
+  margin-inline-end: -30vw;
+}
 .p1 {
   font-size: 1em;
   z-index: 2;

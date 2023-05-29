@@ -9,8 +9,9 @@
   display: grid;
   margin: auto;
   align-items: center;
-  min-height: 20vh;
+  min-height: 35vh;
   grid-template-columns: repeat(2, 1fr);
+  box-shadow: 0px 10px whitesmoke;
 }
 .hero-img {
   width: 80%;
@@ -45,6 +46,7 @@ p {
   cursor: pointer;
   letter-spacing: 2px;
   font-weight: 400;
+  margin-bottom: 10px;
 }
 
 .cta-back:before {
